@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#calendarpage {
+	position: relative;
+	top: -90px;
+	left: -29px;	
+}
+
+#calendarone {
+	z-index: 9999;
+	position: relative;
+	top: -603px;
+	left: 168px;	
+}
+
+#calendarchallenge {
+	font-family: Garamond, "Times New Roman", Times, serif;
+	font-size: 18px;
+	position: relative; 
+	top: -722px;
+	left: 390px;
+	color: #6084a5;
+}
+
+#calendarwrapper {
+	width: 1020px;	
+}

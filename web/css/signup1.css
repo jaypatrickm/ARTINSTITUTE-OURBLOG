@@ -1,0 +1,91 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#signupmap {
+	position: relative;
+	top: 29px;
+	left: 31px;
+}
+
+#signupbutton {
+	position: relative;
+	top: -160px;
+	left: 484px;	
+}
+
+#signupmap2 {
+	position: relative;	
+	top: 30px;
+	left: 32px;
+}
+
+#signupback {
+	position: relative;	
+	top: -57px;
+	left: 140px;
+}
+
+#signupnext {
+	position: relative;	
+	top: -57px;
+	left: 483px;
+}
+
+#signupmap3 {
+	position: relative;	
+	top: 30px;
+	left: 32px;
+}
+
+#signupsubmit {
+	position: relative; 
+	top: -162px;
+	left: 660px;	
+}
+
+#signupwrapper {
+	width: 1020px;	
+}
+
+#dashboardwrapper {
+	width: 1020px;
+}	
+
+#dashboard {
+	position: relative;
+	top: 30px;
+	left: 26px;	
+}
+
+#dashboardbc {
+	position: relative;
+	top: -593px;
+	left: 210px;	
+}
+
+#dashboardpe {
+	position: relative;
+	top: -594px;	
+	left: 370px;
+}
+
+#blogchallengemap {
+	position: relative;
+	top: 30px;
+	left: 30px;
+		
+}
+
+#personalentrymap {
+	position: relative;
+	top: 30px;
+	left: 30px;
+		
+}
+
+#publicviewmap {
+	position: relative;
+	top: 30px;
+	left: 30px;
+		
+}

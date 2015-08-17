@@ -1,0 +1,293 @@
+@charset "utf-8";
+/* 
+*
+*
+*
+Author: Jay Manalansan
+Our Blog 
+*
+*
+*
+Nice to see you!
+*
+*
+*/
+
+
+
+/* Table of Contents 
+*
+* Body
+* Main
+* About
+* Month
+** MONE - MTEN
+
+/* ------------------------------- */
+
+
+/* Color Notes 
+
+Gray: 		#7d7d7d
+Light Gray: #e9e9e9
+Blue: 		#6084a5
+Salmon: 	#fca1a1
+Macaroni: 	#ffcda1
+Seafoam:	#a1ffbe
+Pale Blue: 	#c4d2de
+
+/* ------------------------------- */
+/* Body */
+body {
+	height: 4000px;
+	width: 4000px;
+	margin: 0 auto;
+}
+
+/* ------------------------------- */
+/* Main */
+
+#main {
+	height: 800px;
+	width: 1020px;
+	font-family: FiveMinutes, Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	color: #7d7d7d;
+	margin: 0;
+	position: relative;
+	left: 1650px;
+	top: -1100px;
+}
+
+#mainwrapper {
+	position: relative;
+	left: 52px;	
+	top: -50px;
+}
+#welcome {
+	position:relative;
+	left: 86px;
+	top: -60px;
+}
+
+#logo {
+	position:relative;
+	left: -211px;
+	top: 212px;
+	
+}
+
+#marchcalendar {
+	position:relative;
+	left: -510px;
+	top: 333px;
+}
+
+#firstblurb {
+	position:relative;
+	left: 545px;	
+	top: -165px;
+}
+
+#nav {
+	position: relative;
+	top: -169px;	
+	left: 340px;
+}
+
+#nav li {
+	display:inline;	
+	padding-left: 80px;
+}
+
+#creativeblurb{
+	position: relative;
+	left: 560px;	
+	top: -142px;
+}
+
+#emailimg {
+	position: relative;
+	left: 310px;
+	top: -98px;		
+}
+
+#passwordimg {
+	position: relative;
+	left: 230px;
+	top: -47px;	
+}
+#mainlog {
+	position: relative;	
+	left: 525px;
+	height: 20px;
+	top: -158px;
+}
+
+#mainlog input {
+	display: block;	
+	margin-top: 23px;
+	padding: 5px;
+	width: 216px;	
+}
+/* ------------------------------- */
+/* About */
+
+#about {
+	height: 800px;
+	width: 1020px;
+	font-family: Garamond, "Times New Roman", Times, serif; 
+	font-style:normal;
+	font-size: 16px;
+	font-weight: 500;
+	letter-spacing: 1px;
+	color: #7d7d7d;
+	margin: 0;
+	position: relative;
+	left: 2612px;
+	top: 0px;	
+	padding-left: 100px;
+}
+
+#abouttitle {
+	position: relative;
+	top: 100px;
+	left: 39px;	
+}
+#aboutwelcome {
+	position: relative;
+	top:150px;
+	left: -36px;
+}
+#accordion {
+	position: relative;	
+	top: 158px;
+	left: 80px;
+}
+#about h3 {
+	font-family: BebasNeue;
+	font-size: 24px;	
+	color: #c4d2de;
+}
+#about p {
+	width: 595px;	
+	padding-left: 45px;
+	margin: 0 0 10px 0;
+}
+.plus {
+	position:relative;	
+	top: -3px;
+	margin: 0 15px 0 0;
+}
+.minus {
+	position:relative;
+	top: -3px;
+	margin: 0 15px 0 0;	
+}
+/* ------------------------------- */
+/***** Month *****/
+
+.monthModule {
+	width: 1020px;
+	height: 650px;
+	position:relative;	
+	
+}
+
+.monthwrapper{
+	position: relative;
+	left: -37px;
+}
+
+.circ {
+	display: block;	
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	top: 105px;
+}
+
+.challenge {
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	top: 85px;
+}
+
+.rtarrow {
+	position: relative;
+	left: 560px;
+	top: 73px;	
+}
+
+.rtarrow2 {
+	position: relative;
+	left: 560px;
+	top: 73px;	
+}
+
+.ltarrow {
+	position: relative;	
+	top: 137.5px;
+	left: 428px;
+}
+
+.ltarrow2 {
+	position: relative;	
+	top: 137.5px;
+	left: 428px;
+}
+
+#mlastfix {
+	position: relative;
+	margin: 0 auto 26px auto;
+}
+
+
+#mone {
+	left: 200px;	
+}
+
+#mtwo {
+	left: 500px;
+	top: 300px;
+}
+
+#mthree {
+	left: 1645px;
+}
+
+#mfour {
+	left: 2900px;
+	top: -300px;
+}
+
+#mfive {
+	left: 2800px;
+}
+
+#msix {
+	left: 2965px;
+}
+
+#mseven {
+	left: 1945px;
+	top: -300px;
+}
+
+#meight {
+	left: 965px;
+}
+
+#mnine {
+	left: 145px;
+	top: 300px;
+}
+
+#mten {
+	left: 320px;
+}
+
+
+/* ------------------------------- */
